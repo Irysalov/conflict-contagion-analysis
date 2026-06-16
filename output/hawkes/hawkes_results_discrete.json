@@ -1,0 +1,20 @@
+{
+  "palestine_israel": {
+    "branching_ratio": 0.9477921741949695,
+    "alpha": 0.4996743348968359,
+    "beta": 0.47280179294448543,
+    "mu": 1.9603794640108194,
+    "p_value": 0.0,
+    "total_events": 47423,
+    "n_days": 613
+  },
+  "russia_ukraine": {
+    "branching_ratio": 0.9454203748829292,
+    "alpha": 0.11396096045482333,
+    "beta": 0.8794600121994038,
+    "mu": 0.7933914936966157,
+    "p_value": 0.0,
+    "total_events": 128725,
+    "n_days": 1203
+  }
+}

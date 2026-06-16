@@ -1,0 +1,3 @@
+Region,Total Events,Start Date,End Date,Time Span (days),Mean Interarrival (days),Median Interarrival (days),CV of Interarrival,Max Daily Events,Days with Events
+Palestine_Israel,47423,2023-10-07,2025-06-10,612,0.013,0.000,8.657,289,613
+Russia_Ukraine,128725,2022-02-24,2025-06-10,1202,0.009,0.000,10.196,188,1203
